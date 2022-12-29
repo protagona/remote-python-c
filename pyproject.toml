@@ -1,0 +1,7 @@
+[project]
+name = "remote-python-c"
+dynamic = ["version"]
+
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
